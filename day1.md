@@ -92,7 +92,7 @@ public:
 };
 ```
 
-![image-20240403145602117](C:\Users\20550\AppData\Roaming\Typora\typora-user-images\image-20240403145602117.png)
+![image-20240403145602117](https://cdn.jsdelivr.net/gh/ChristophLevi/AlgorithmPractice@master/image-20240403145602117.png)
 
 快慢指针：
 
@@ -114,4 +114,5 @@ public:
 };
 ```
 
-![image-20240403145757258](C:\Users\20550\AppData\Roaming\Typora\typora-user-images\image-20240403145757258.png)
+![image-20240403145757258](https://cdn.jsdelivr.net/gh/ChristophLevi/AlgorithmPractice@master/image-20240403145757258.png)
+
