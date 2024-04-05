@@ -8,7 +8,7 @@
 
 想法是对的 想想实现
 
-```
+```cpp
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
@@ -60,7 +60,7 @@ onlogn
 
 出现的问题：result判别应该在sum更新和i自增的前面
 
-```
+```cpp
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
@@ -100,7 +100,7 @@ public:
 
 上右下左这样子遍历
 
-```
+```cpp
 class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
