@@ -84,7 +84,7 @@ if(cur->next->val==val){
 
 重点练习虚拟头节点
 
-```
+```cpp
 MyLinkedList()
 int get(int index)
 void addAtHead(int val)
@@ -103,7 +103,7 @@ n节点前插
 
 删第n个
 
-```
+```cpp
 class MyLinkedList {
 public:
     class ListNode{
