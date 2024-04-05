@@ -16,7 +16,7 @@ vector是容器而不是数组
 
 必然是二分ologn o1
 
-```
+```cpp
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
@@ -42,7 +42,7 @@ public:
 
 排好序 目标值 返回被插入的位置
 
-```
+```cpp
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
@@ -72,7 +72,7 @@ public:
 
 暴力：
 
-```
+```cpp
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
@@ -96,7 +96,7 @@ public:
 
 快慢指针：
 
-```
+```cpp
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
